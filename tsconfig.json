@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "lib": [
+            "es2020"
+        ],
+        "baseUrl": "",
+        "module": "CommonJS",
+        "target": "ES2019",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "noImplicitAny": false,
+        "allowJs": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "removeComments": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "allowSyntheticDefaultImports": true,
+        "types": [
+            "node"
+        ],
+    },
+}
